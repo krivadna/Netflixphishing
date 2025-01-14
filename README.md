@@ -5,7 +5,7 @@
 </div>
 
 ### 🔐 STRICTLY FOR AUTHORIZED USE ONLY 🔐
-__Analyze Paypal login clone project Test__
+Analyze Netflix login security implementation
 
 ### 🚨 SECURITY RESEARCH DISCLAIMER 🚨
 
