@@ -1,4 +1,8 @@
-# PaypalPhishingPageTest
+# NetflixPhishingPageTest
+
+<div align="center">
+  <img src="https://i.imgur.com/NQ9PvAu.jpeg" alt="Thumbnail" width="300" style="border-radius: 10px;">
+</div>
 
 ### 🔐 STRICTLY FOR AUTHORIZED USE ONLY 🔐
 __Analyze Paypal login clone project Test__
