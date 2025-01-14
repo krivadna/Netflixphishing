@@ -36,7 +36,7 @@ By accessing these pages, you confirm you are:
 
 ##  Access Page 🔥 
 
-[![Website](https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalkikrivadna.com/paypalsignin)
+[![Website](https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalkikrivadna.com/netflixlogin)
 
 
 ### 🌐 Connect With Me to get obfuscated code with functionality to add your webhook.
